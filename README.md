@@ -8,7 +8,7 @@
     - Checkout
 
 Sign Up <br>
-    - The user can choose if they want to be an Admin or Customer.
+    - The user can choose if they want to be an Admin or Customer. <br>
 Login <br>
     - Same login page for both admin and customer.<br>
 Products <br>
