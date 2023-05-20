@@ -12,7 +12,7 @@ Sign Up <br>
 Login <br>
     - Same login page for both admin and customer.<br>
 Products <br>
-    - Admin: Can add, update, and delete products.
+    - Admin: Can add, update, and delete products.<br>
     - Customer: Can view the products and proceed to checkout.<br>
 
 API: Authnet.net <br>
